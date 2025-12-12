@@ -1,4 +1,5 @@
-# 🎙️ Real-Time AI-Based Vishing Scam Detector(https://vishing-detector-kanika-imerb.streamlit.app/)
+# <a href="https://vishing-detector-kanika-imerb.streamlit.app/" target="_blank">🎙️ Real-Time AI-Based Vishing Scam Detector</a>
+
 
 **A cutting-edge voice-phishing detection system powered by Speech-to-Text and Natural Language Processing**
 
