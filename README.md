@@ -28,7 +28,7 @@ Vishing (voice phishing) represents one of the most sophisticated social enginee
 
 This intelligent detection system operates in real-time, capturing live audio conversations, transcribing speech with state-of-the-art accuracy, analyzing linguistic patterns for scam indicators, and delivering instant alerts to protect users. By combining Speech-to-Text conversion with advanced NLP techniques, the detector identifies social engineering attempts before they can cause harm.
 
-**Key Insight:** The most effective defense against voice phishing isn't blocking numbers—it's understanding intent.
+🔗 **Live Demo:** [Click here to try the Real-Time AI Vishing Detector](https://vishing-detector-kanika-imerb.streamlit.app/)
 
 ---
 
