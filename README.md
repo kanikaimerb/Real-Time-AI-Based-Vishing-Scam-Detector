@@ -209,8 +209,9 @@ Unauthorized copying, replication, redistribution, or commercial use is strictly
 For questions, feedback, or discussions about this project:
 
 - **Email:** Kanikaim2003@gmail.com
-- **GitHub:** [[github.com/kanikalm](https://github.com/kanikalm)](https://github.com/kanikaimerb)
-- **LinkedIn:** [[linkedin.com/in/kanika-im-erb](https://linkedin.com/in/kanika-im-erb)](https://www.linkedin.com/in/kanika-im-erb-475643267/)
+- **GitHub:** <a href="https://github.com/kanikaimerb" target="_blank">github.com/kanikalimerb/a>
+
+- **LinkedIn:** [[linkedin.com/in/kanika-im-erb](https://www.linkedin.com/in/kanika-im-erb-475643267/)]
 
 ---
 
