@@ -211,7 +211,7 @@ For questions, feedback, or discussions about this project:
 - **Email:** Kanikaim2003@gmail.com
 - **GitHub:** <a href="https://github.com/kanikaimerb" target="_blank">github.com/kanikalimerb/a>
 
-- **LinkedIn:** [[linkedin.com/in/kanika-im-erb](https://www.linkedin.com/in/kanika-im-erb-475643267/)]
+- **LinkedIn:** [linkedin.com/in/kanika-im-erb](https://www.linkedin.com/in/kanika-im-erb-475643267/)
 
 ---
 
